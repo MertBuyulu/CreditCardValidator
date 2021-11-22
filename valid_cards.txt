@@ -1,0 +1,32 @@
+5435528978467581 ------> Either Diners Club - USA&Canada or MasterCard 
+6706465468107999 ------> Laser Card
+6304362971054667 ------> Either Maestro or Laser Card
+6706169762827894 ------> Laser Card
+4844104341377697 ------> Visa Electron Card
+4913405490886727 ------> Visa Electron Card
+4844885754351829 ------> Visa Electron Card
+6371473570875275 ------> InstaPayment Card
+6381475006869978 ------> InstaPayment Card
+6389057917814806 ------> InstaPayment Card
+347100734345549 ------> American Express Card
+6011162533805000 ------> Discover Card
+6011621663574413 ------> Discover Card
+6011824617460743 ------> Discover Card
+4539318768050385 ------> Visa Card
+36880982786892 ------> Diners Club - International Card
+36845793345501 ------> Diners Club - International Card
+36661154562232 ------> Diners Club - International Card
+5893329089846994 ------> Maestro Card
+6761680165952016 ------> Maestro Card
+6763100400984029 ------> Maestro Card
+5127043299122389 ------> MasterCard
+5330838017737340 ------> MasterCard
+5429168755154025 ------> Either Diners Club - USA&Canada or MasterCard 
+375354034606481 ------> American Express Card
+379570632133224 ------> American Express Card
+4485521241443135 ------> Visa Card
+4532916206508075 ------> Visa Card
+5590976687287124 ------> MasterCard
+5540641137519895 ------> MasterCard
+30522070708059 ------> Diners Club - Carte Blanche Card
+30365487186802 ------> Diners Club - Carte Blanche Card

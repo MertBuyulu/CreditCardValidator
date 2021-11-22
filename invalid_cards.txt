@@ -1,0 +1,10 @@
+6706169762827892 ------> Laser Card
+4844885754351822 ------> Visa Electron Card
+347100734345543 ------> American Express Card
+6011824617460745 ------> Discover Card
+6389057917814802 ------> InstaPayment Card
+36661154562234 ------> Diners Club - International Card
+6763100400984022 ------> Maestro Card
+5429168755154023 ------> Either Diners Club - USA&Canada or MasterCard 
+4532916206508076 ------> Visa Card
+5540641137519892 ------> MasterCard
